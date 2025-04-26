@@ -23,6 +23,6 @@ This package is now available on the AUR. Use your AUR helper to install the `bl
 
 Other OSs
 
-Nothing fancy at the moment, later it will be available on the AUR
+Nothing fancy at the moment
 - download blackhole.py
 - `python blackhole.py`
