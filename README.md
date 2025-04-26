@@ -15,7 +15,9 @@ A - Yes. TODO.
 
 Arch User Repository
 This package is now available on the AUR. Use your AUR helper to install the `blackhole-sim` package, from there simply run `blackhole` in your terminal.
+
 ```yay -S blackhole-sim```
+
 ```paru -S blackhole-sim```
 
 Other OSs
